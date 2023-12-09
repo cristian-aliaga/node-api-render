@@ -1,0 +1,42 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Merengues Update",
+            "origen": "Chile Update"
+        },
+        {
+            "id": 2,
+            "name": "Cebiche",
+            "origen": "Perú"
+        },
+        {
+            "id": 3,
+            "name": "Asado",
+            "origen": "Chile"
+        },
+        {
+            "id": 4,
+            "name": "Empanada",
+            "origen": "Chile"
+        },
+        {
+            "id": 5,
+            "name": "Tortas",
+            "origen": "Chile"
+        },
+        {
+            "id": 6,
+            "name": "Merengues",
+            "origen": "Chile"
+        }
+    ],
+    "books": [
+        {
+            "id": 2,
+            "name": "El señor de los Anillos",
+            "author": "Tolkien",
+            "year": "1940"
+        }
+    ]
+}
